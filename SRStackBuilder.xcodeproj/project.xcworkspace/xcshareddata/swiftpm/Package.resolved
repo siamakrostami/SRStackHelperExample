@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "srstackhelper",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siamakrostami/SRStackHelper/",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b994836646c2c49c8e930e9bbe82f5664b612844"
+      }
+    }
+  ],
+  "version" : 2
+}
